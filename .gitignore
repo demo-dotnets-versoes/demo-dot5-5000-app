@@ -1,20 +1,7 @@
 # User-specific files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-Local.session.sql
-ScaffoldingReadMe.txt
-
 .vs/
 .vscode/*
-.DS_Store
 bin/
 obj/
 .config/*
-Views/.DS_Store
-images/FotoPerfil/*
-Properties/PublishProfiles/*
-
-
+dist/*
